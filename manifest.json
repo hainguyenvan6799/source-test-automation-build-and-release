@@ -1,0 +1,40 @@
+{
+  "manifest_version": 1,
+  "version":"1.2.1",
+  "type": "APP",
+  "icon": "src/image/icon.png",
+  "name": {
+    "en": "Bulk Status Update Plugin",
+    "ja": "Bulk Status Update Plugin",
+    "zh": "Bulk Status Update Plugin"
+  },
+  "description": {
+    "en": "Bulk Status Update Plugin.",
+    "ja": "Bulk Status Update Plugin.",
+    "zh": "Bulk Status Update Plugin."
+  },
+  "homepage_url": {
+    "ja": "https://www.kintone.com/native-kintone-plug-ins/",
+    "en": "https://www.kintone.com/native-kintone-plug-ins/",
+    "zh": "https://www.kintone.com/native-kintone-plug-ins/"
+  },
+  "config": {
+    "html": "src/html/config.html",
+    "js": [
+      "build/js/pluginLayout.js",
+      "build/js/config.js"
+    ],
+    "css": [
+      "build/css/config.css",
+      "build/css/pluginLayout.css"
+    ]
+  },
+  "desktop": {
+    "js": [
+      "build/js/desktop.js"
+    ],
+    "css": [
+      "build/css/desktop.css"
+    ]
+  }
+}

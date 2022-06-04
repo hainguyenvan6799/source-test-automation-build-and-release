@@ -1,0 +1,13 @@
+/*
+* @kintone-plugins/bulk-update-status
+* Copyright (c) 2021 Cybozu
+*
+* Licensed under the MIT License
+*/
+.labelHeader-select-action-popup {
+    font-weight: bold;
+}
+
+.footer-modal-container {
+    display: flex;
+}

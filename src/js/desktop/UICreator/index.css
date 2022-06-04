@@ -1,0 +1,46 @@
+/*
+* @kintone-plugins/bulk-update-status
+* Copyright (c) 2021 Cybozu
+*
+* Licensed under the MIT License
+*/
+.bulk-attachment-upload-button {
+  background-color: #3498DA !important;
+  color: white !important;
+  height: 48px;
+  border: none;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.select-all {
+  width: 50px;
+}
+
+.recordlist-header-cell-gaia:last-child {
+  width: 85px !important;
+}
+
+.recordlist-header-cell-gaia:nth-child(2) {
+  width: 41px !important;
+}
+
+.recordlist-cell-gaia:first-child {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.recordlist-header-cell-gaia:first-child {
+  text-align: center;
+}
+
+.recordlist-gaia.gaia-app-recordlist-fixedheader {
+  display: none;
+}
+
+.headerTableSticky {
+  position: sticky !important;
+  top: 45px;
+  z-index: 10;
+  background-color: white;
+}

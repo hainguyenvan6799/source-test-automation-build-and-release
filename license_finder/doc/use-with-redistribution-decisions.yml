@@ -1,0 +1,135 @@
+---
+
+# GNU General Public License（GPL）
+- - :restrict
+  - GPL-2.0-only
+  - :who: OSPO
+    :why: https://bozuman.cybozu.com/k/8979/show#record=1
+    :versions: []
+    :when: 2014-02-04 07:41:00.000000000 Z
+- - :restrict
+  - GPL-3.0-only
+  - :who: OSPO
+    :why: https://bozuman.cybozu.com/k/8979/show#record=1
+    :versions: []
+    :when: 2014-02-04 07:41:00.000000000 Z
+
+# GNU Affero General Public License（AGPL）
+- - :restrict
+  - AGPL-3.0-only
+  - :who: OSPO
+    :why: https://bozuman.cybozu.com/k/8979/show#record=2
+    :versions: []
+    :when: 2014-02-04 07:41:00.000000000 Z
+
+# European Union Public license （EUPL）
+- - :restrict
+  - EUPL-1.1
+  - :who: OSPO
+    :why: https://bozuman.cybozu.com/k/8979/show#record=3
+    :versions: []
+    :when: 2014-02-04 07:41:00.000000000 Z
+
+# Mozilla Public License（MPL）
+# https://bozuman.cybozu.com/k/8979/show#record=4
+
+# GNU Lesser General Public License（LGPL）
+- - :restrict
+  - LGPL-2.0-only
+  - :who: OSPO
+    :why: https://bozuman.cybozu.com/k/8979/show#record=5
+    :versions: []
+    :when: 2014-02-04 07:41:00.000000000 Z
+- - :restrict
+  - LGPL-2.1-only
+  - :who: OSPO
+    :why: https://bozuman.cybozu.com/k/8979/show#record=5
+    :versions: []
+    :when: 2014-02-04 07:41:00.000000000 Z
+- - :restrict
+  - LGPL-3.0-only
+  - :who: OSPO
+    :why: https://bozuman.cybozu.com/k/8979/show#record=5
+    :versions: []
+    :when: 2014-02-04 07:41:00.000000000 Z
+
+# Common Development and Distribution License（CDDL）
+# https://bozuman.cybozu.com/k/8979/show#record=6
+
+# Common Public License（CPL）
+# https://bozuman.cybozu.com/k/8979/show#record=7
+
+# Eclipse Public License（EPL）
+# https://bozuman.cybozu.com/k/8979/show#record=8
+
+# Yahoo Public License（YPL）
+# https://bozuman.cybozu.com/k/8979/show#record=9
+
+# BSD License
+# https://bozuman.cybozu.com/k/8979/show#record=10
+- - :permit
+  - 0BSD
+  - :who: OSPO
+    :why: https://bozuman.cybozu.com/k/8979/show#record=10
+    :versions: []
+    :when: 2014-02-04 07:41:00.000000000 Z
+
+# Apache License 2.0（ASL）
+# https://bozuman.cybozu.com/k/8979/show#record=11
+
+# MIT License
+# https://bozuman.cybozu.com/k/8979/show#record=12
+
+# Sendmail License
+# https://bozuman.cybozu.com/k/8979/show#record=13
+
+# OpenSSL License/SSLeay License
+# https://bozuman.cybozu.com/k/8979/show#record=14
+
+# Code Project Open License（CPOL）
+# https://bozuman.cybozu.com/k/8979/show#record=15
+
+# ISC License
+# https://bozuman.cybozu.com/k/8979/show#record=16
+
+# Artistic License
+# https://bozuman.cybozu.com/k/8979/show#record=17
+
+# DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE（WTFPL）
+- - :permit
+  - WTFPL
+  - :who: OSPO
+    :why: https://bozuman.cybozu.com/k/8979/show#record=18
+    :versions: []
+    :when: 2015-07-24 04:29:00.000000000 Z
+
+# zlib License
+# https://bozuman.cybozu.com/k/8979/show#record=20
+
+# Server Side Public License (SSPL)
+- - :restrict
+  - SSPL-1.0
+  - :who: OSPO
+    :why: https://bozuman.cybozu.com/k/8979/show#record=21
+    :versions: []
+    :when: 2019-02-01 04:21:00.000000000 Z
+
+# ELASTIC LICENSE AGREEMENT
+# https://bozuman.cybozu.com/k/8979/show#record=22
+
+# Cyrus SASL License
+# https://bozuman.cybozu.com/k/8979/show#record=23
+
+# Eclipse Distribution License（EDL）
+# https://bozuman.cybozu.com/k/8979/show#record=25
+
+# SIL OPEN FONT LICENSE（OFL）
+# https://bozuman.cybozu.com/k/8979/show#record=26
+
+# Unlicense
+- - :permit
+  - Unlicense
+  - :who: OSPO
+    :why: https://bozuman.cybozu.com/k/8979/show#record=27
+    :versions: []
+    :when: 2020-10-08 11:20:00.000000000 Z

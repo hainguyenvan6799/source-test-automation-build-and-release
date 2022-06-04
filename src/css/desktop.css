@@ -1,0 +1,30 @@
+/*
+* @kintone-plugins/bulk-update-status
+* Copyright (c) 2021 Cybozu
+*
+* Licensed under the MIT License
+*/
+.plugin-space-heading {
+  font-size: 1.5rem;
+  margin: 0.8rem;
+}
+.plugin-space-message {
+  display: inline-block;
+  font-size: 1.2em;
+  margin: 0.8rem;
+  margin-top: 0;
+}
+.customized-button-pressed {
+  background-color: #3498db !important;
+  box-shadow: 1px 1px 1px #fff inset !important;
+  color: #f7f9fa !important;
+}
+/* .row-gaia.clearFix-cybozu {
+  margin-bottom: 0px!important;
+} */
+
+.showlayout-gaia .row-gaia .subtable-row-gaia .control-value-gaia {
+  border: 0 none;
+  background: none;
+  padding: 4px 0;
+}

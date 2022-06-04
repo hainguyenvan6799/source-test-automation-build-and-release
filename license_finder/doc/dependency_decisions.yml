@@ -1,0 +1,19 @@
+---
+- - :approve
+  - "@kintone-plugins/bulk-update-status"
+  - :who: 
+    :why: In npm, a check of the License Finder will include the product itself.
+    :versions: []
+    :when: 2021-06-25 05:23:24.889757000 Z
+- - :permit
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-07-23 03:22:18.970745000 Z
+- - :permit
+  - ISC
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-07-23 03:22:18.970745000 Z

@@ -1,0 +1,10 @@
+/*
+* @kintone-plugins/bulk-update-status
+* Copyright (c) 2021 Cybozu
+*
+* Licensed under the MIT License
+*/
+.label-plugin-name {
+  font-weight: bold;
+  font-size: xx-large;
+}

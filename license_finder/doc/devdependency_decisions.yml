@@ -1,0 +1,47 @@
+---
+- - :permit
+  - ODC-By-1.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-06-25 05:23:25.098597000 Z
+- - :permit
+  - CC-BY-3.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-06-25 05:23:41.098597000 Z
+- - :permit
+  - CC-BY-4.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-06-25 05:23:41.098597000 Z
+- - :permit
+  - CC0-1.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-06-25 05:23:41.098597000 Z
+
+# This is a workaround for the License Finder bug. If you want to use typescript in this project in the future, you will need to remove this setting.
+- - :ignore
+  - typescript
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-06-30 05:51:21.134990000 Z
+# If you want to use react in this project in the future, you will need to remove this setting.
+- - :ignore
+  - react
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-06-30 05:51:21.134990000 Z
+# If you want to use react-dom in this project in the future, you will need to remove this setting.
+- - :ignore
+  - react-dom
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-06-30 05:51:21.134990000 Z

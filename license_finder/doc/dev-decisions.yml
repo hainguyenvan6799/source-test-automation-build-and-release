@@ -1,0 +1,11 @@
+---
+- - :inherit_from
+  - "./license_finder/doc/use-without-redistribution-decisions.yml"
+- - :inherit_from
+  - "./license_finder/doc/devdependency_decisions.yml"
+- - :ignore_group
+  - dependencies
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2021-06-23 08:58:39.910600000 Z

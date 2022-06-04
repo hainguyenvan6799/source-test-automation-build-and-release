@@ -1,0 +1,85 @@
+/*
+* @kintone-plugins/bulk-update-status
+* Copyright (c) 2021 Cybozu
+*
+* Licensed under the MIT License
+*/
+.label-plugin-name {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.label-multi-select-views {
+  font-weight: bold;
+  font-size: medium;
+  margin-bottom: 20px;
+}
+
+.label-table-field,
+.label-datetime-field,
+.label-user-selection-field,
+.label-status-before,
+.label-status-after,
+.label-action-name {
+  font-weight: bold;
+  font-size: medium;
+}
+
+.label-status-history-table {
+  font-weight: bold;
+  font-size: large;
+  margin-top: 10px;
+}
+
+.label-sub-status-history-table {
+  margin-bottom: 20px;
+}
+
+.container-dropdown-table-field,
+.container-dropdown-datetime-field,
+.container-dropdown-user-selection-field,
+.container-dropdown-status-text-field
+{
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+}
+
+.container-button {
+  display: flex;
+  justify-content: left;
+}
+
+.button-save {
+  width: 200px;
+  height: 70px;
+  background-color: rgb(17, 156, 202);
+  color: white;
+}
+
+.button-cancel {
+  width: 200px;
+  height: 70px;
+  background-color: rgb(84, 87, 88);
+  color: white;
+  margin-right: 10px;
+}
+
+.container-dropdown {
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+}
+
+.label-dropdown {
+  font-weight: bold;
+  font-size: medium;
+}
+
+.swal-text {
+  text-align: center;
+}
+
+.swal-footer {
+  text-align: center;
+}
