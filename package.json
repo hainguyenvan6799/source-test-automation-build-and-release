@@ -1,6 +1,6 @@
 {
   "name": "@kintone-plugins/bulk-update-status",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "scripts": {
     "start": "node scripts/npm-start.js",
     "dev": "webpack --mode=development --watch",
